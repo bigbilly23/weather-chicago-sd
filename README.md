@@ -1,6 +1,8 @@
 # Average Temperature in Chicago and San Diego
 by Suraj Rampure
 
+<blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Forty world leaders, including President Biden, will try to rescue the planet from global warming in a two-day, livestreamed climate summit starting Thursday. Here’s a viewer’s guide. <a href="https://t.co/u6qWYlUmXT">https://t.co/u6qWYlUmXT</a></p>&mdash; The Associated Press (@AP) <a href="https://twitter.com/AP/status/1385009238238539776?ref_src=twsrc%5Etfw">April 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 This dataset describes the daily climate of five cities across the world (Auckland, Beijing, Chicago, Mumbai, and San Diego) on each day of 2016 and 2017. It was downloaded from the [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) website.
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
